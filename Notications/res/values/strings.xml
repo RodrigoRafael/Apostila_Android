@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Notications</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="new_notification"> Nova Notificacao </string>
+    <string name="create_notification"> Criar Notificacao </string>
+    <string name="notification_activity_description"> Esta tela foi aberta apartir 
+        da notificacao. </string>
+    <string name="notification_content"> Conteudo descrevendo a notificacao.</string>
+
+</resources>
